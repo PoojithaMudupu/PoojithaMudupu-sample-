@@ -20,9 +20,10 @@ Especially I was mesmerized with **viratkohli** game in every matches.
 ---
 
 # Explore the countries
-This table tells about countries which are good to visit in vacations with your families and friends.
+This table tells about countries which are good to visit in vacations with your families and friends.<br>
+
 | **Country_Name**| **Reason**| **Days to spend**|
-|     :---:           :---:        :---:
+|     :---:       |    :---:    |    :---:         |
 |  India       |  India is a cultured country with diversity. |30 days |
 |  Germany     |  Germany is a europe country where we can see old things.|  6 days |
 |  Norway      |  It is clean without corruption country.| 365 days |
