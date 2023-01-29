@@ -10,8 +10,7 @@ Especially I was mesmerized with **viratkohli** game in every matches.
 1. Virat kohli 
 2. Rohit sharma 
 3. Bhuvaneshwar 
-## Australia Cricket Team
-* David Warner
-* Steve smith
-* Brad Haddin
-* Josh Hazlewood
+* Australia cricket team
+* England football team
+* Indian women cricket team
+* Royal challenges bangalore
