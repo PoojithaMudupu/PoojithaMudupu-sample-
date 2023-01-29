@@ -32,7 +32,7 @@ This table tells about countries which are good to visit in vacations with your 
 ---
 
 ## Quotes
->   The way to get started is to quit talking and being doing  -  *Walt Disney*
+>   The way to get started is to quit talking and being doing  -  *Walt Disney* <br>
 >   It is during our darkest moments that we must focus to see the light  - v *Aristotle*
 
 ---
