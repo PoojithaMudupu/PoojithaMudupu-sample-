@@ -7,6 +7,6 @@ Especially I was mesmerized with **viratkohli** game in every matches.
 ---
 
 ## Indian cricket team
-1.Virat kohli
-1.Rohit sharma
-1.Bhuvaneshwar
+1. Virat kohli 
+2. Rohit sharma 
+3. Bhuvaneshwar 
