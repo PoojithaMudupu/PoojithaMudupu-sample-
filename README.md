@@ -32,10 +32,23 @@ This table tells about countries which are good to visit in vacations with your 
 ---
 
 ## Quotes
->   The way to get started is to quit talking and being doing  -  *Walt Disney* <br>
+>   The way to get started is to quit talking and being doing  -  *Walt Disney* 
+
 >   It is during our darkest moments that we must focus to see the light  - v *Aristotle*
 
 ---
 
+> [svg stack overflow](https://stackoverflow.com/questions/50537363/what-is-it-in-svg-file)
+
+# SVG code snippet
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+
+...
+
+> [svg hamburger menu](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
 
 
